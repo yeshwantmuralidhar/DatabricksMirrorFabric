@@ -4,6 +4,9 @@ Architectural resources for Databricks Unity Catalog mirror to Fabric.
 ## Overview
 * This repo exists to provide architectural understanding of the Microsoft Fabric Databricks Unity Catalog Mirror, which is hard to intuit from the documentation below. 
 * Fabric UC Mirror exists to enable Fabric analytics tools (Power BI, Maps, etc.) to leverage Databricks data with zero data movement and without bypassing Unity Catalog for access or audit.
+* Here is a setup guide that synthensizes the documentation below:
+    * [Setup Requirements: Organizational Account identity](mirror_databricks_to_fabric_starter_org_identity.md)
+    * [Setup Requirements: Service Principal identity](mirror_databricks_to_fabric_enterprise_sp_identity.md)
 
 ## Azure Databricks Documentation
 * [Publish a Unity Catalog catalog to Microsoft Fabric](https://learn.microsoft.com/en-us/azure/databricks/partners/bi/fabric-publish)
