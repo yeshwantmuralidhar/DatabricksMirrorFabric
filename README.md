@@ -7,6 +7,8 @@ Architectural resources for Databricks Unity Catalog mirror to Fabric.
 * Here is a setup guide that synthensizes the documentation below:
     * [Setup Requirements: Organizational Account identity](mirror_databricks_to_fabric_starter_org_identity.md)
     * [Setup Requirements: Service Principal identity](mirror_databricks_to_fabric_enterprise_sp_identity.md)
+* Here is an earlier version of the guide as a single document, also addressing private networking:
+    * [Fabric UC Mirror PoC setup checklist](Fabric-UCMirroring-ADB-PoC-setup.md)
 
 ## Azure Databricks Documentation
 * [Publish a Unity Catalog catalog to Microsoft Fabric](https://learn.microsoft.com/en-us/azure/databricks/partners/bi/fabric-publish)
@@ -42,8 +44,7 @@ Architectural resources for Databricks Unity Catalog mirror to Fabric.
 Here is the source Draw.io file: 
 [Databricks UC Mirror Fabric.drawio](<Databricks UC Mirror Fabric.drawio>)
 
-### If you would like to enable a PoC while Databricks is on a private network, consider these steps: 
-* [Fabric UC Mirror PoC tasks](Fabric-UCMirroring-ADB-PoC-setup.md)
+
 
 ## RLS SUPPORT
 ### UC Mirror does not work with tables that have RLS enabled, as described in the "Limitations" section above. 
