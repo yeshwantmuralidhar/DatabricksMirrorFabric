@@ -7,7 +7,7 @@ Architectural resources for Databricks Unity Catalog mirror to Fabric.
 * Here is a setup guide that synthensizes the documentation below:
     * [Setup Requirements: Organizational Account identity](mirror_databricks_to_fabric_starter_org_identity.md)
     * [Setup Requirements: Service Principal identity](mirror_databricks_to_fabric_enterprise_sp_identity.md)
-* Here is an earlier version of the guide as a single document, also addressing private networking:
+* Here is an earlier version of the guide: has a checklist but fewer explanations, keeping it for now.
     * [Fabric UC Mirror PoC setup checklist](Fabric-UCMirroring-ADB-PoC-setup.md)
 
 ## Azure Databricks Documentation
