@@ -17,9 +17,8 @@ Architectural resources for Databricks Unity Catalog mirror to Fabric.
 * [Tutorial: Configure Microsoft Fabric mirrored databases from Azure Databricks](https://learn.microsoft.com/en-us/fabric/mirroring/azure-databricks-tutorial)
 * [Connect to Azure Databricks workspaces behind a private endpoint](https://learn.microsoft.com/en-us/fabric/mirroring/azure-databricks-private-endpoint)
 * [Secure Fabric mirrored databases from Azure Databricks](https://learn.microsoft.com/en-us/fabric/mirroring/azure-databricks-security)
-* [Limitations in Microsoft Fabric mirrored databases from Azure Databricks
-Limitations in Microsoft Fabric mirrored databases from Azure Databricks](https://learn.microsoft.com/en-us/fabric/mirroring/azure-databricks-limitations)
-[Trusted Workspace Access](https://learn.microsoft.com/en-us/fabric/security/security-trusted-workspace-access)
+* [Limitations in Microsoft Fabric mirrored databases from Azure Databricks](https://learn.microsoft.com/en-us/fabric/mirroring/azure-databricks-limitations)
+* [Understand Trusted Workspace Access](https://learn.microsoft.com/en-us/fabric/security/security-trusted-workspace-access)
 
 
 # AUTHENTICATION PATH
