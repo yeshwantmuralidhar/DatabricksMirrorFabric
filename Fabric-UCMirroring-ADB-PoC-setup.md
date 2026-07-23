@@ -68,7 +68,7 @@ Mirror Azure Databricks Unity Catalog tables into Fabric with **no data movement
 **Actions**
 - Applies to the **UC managed storage** and **UC external-location** ADLS Gen2 account(s) that back the mirrored Delta tables (see §5.1).
 - Grant the identity **Storage Blob Data Reader** (folder-level **Read/Execute** recommended).
-- Add a **resource instance rule** for the Fabric workspace on the storage account.
+- Add a **resource instance rule** for the Fabric workspace on the storage account. (This _is_ the firewall rule, and you can view it (not edit) in Azure Portal, Storage Account, Networking, Resource Settings, Resources instances)
   - **ARM template or PowerShell only** — the Azure portal is not supported.
   - Fabric uses the **Workspace Identity** to traverse the storage firewall, regardless of the connection's auth method.
 
