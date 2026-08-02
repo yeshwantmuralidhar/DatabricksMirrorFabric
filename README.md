@@ -39,7 +39,7 @@ Architectural resources for Databricks Unity Catalog mirror to Fabric.
     * (described in further detail here: [Use trusted workspace access to access firewall-enabled ADLS storage](https://learn.microsoft.com/en-us/fabric/mirroring/azure-databricks-security#use-trusted-workspace-access-to-access-firewall-enabled-adls-storage))
 5. UC table read with Service Principal JIT token
 
-![Network Path](images/network_path.png)
+![Network Path](images/network_path2.png)
 
 Here is the source Draw.io file: 
 [Databricks UC Mirror Fabric.drawio](<Databricks UC Mirror Fabric.drawio>)
