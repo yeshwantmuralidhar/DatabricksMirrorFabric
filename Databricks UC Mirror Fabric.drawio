@@ -136,12 +136,12 @@
     </mxGraphModel>
   </diagram>
   <diagram id="abo-w3dFBzLlS-nfvvdE" name="Network">
-    <mxGraphModel dx="1414" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1178" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="s0ssg1tq6zyizdszTVb1-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;" value="" vertex="1">
-          <mxGeometry height="520" width="280" x="66.34000000000003" y="90" as="geometry" />
+          <mxGeometry height="490" width="280" x="66.34" y="90" as="geometry" />
         </mxCell>
         <mxCell id="s0ssg1tq6zyizdszTVb1-2" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/analytics/Azure_Databricks.svg;" value="Azure Databricks" vertex="1">
           <mxGeometry height="51.97" width="48" x="136.34000000000003" y="130" as="geometry" />
@@ -164,7 +164,7 @@
         <mxCell id="s0ssg1tq6zyizdszTVb1-8" parent="1" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAzMiAzMyIgaGVpZ2h0PSIzMyIgd2lkdGg9IjMyIj4mI3hhOzxwYXRoIGZpbGw9ImJsYWNrIiBkPSJNMTIuNjI2IDQuMzkwMDJDMTMuMzk3IDMuNjYxNzQgMTQuNjAzIDMuNjYxNzQgMTUuMzc0IDQuMzkwMDJMMjUuMDYxIDEzLjU0MDNDMjUuNjYwNCAxNC4xMDY0IDI2IDE0Ljg5NDEgMjYgMTUuNzE4MlYxOC42MDYyQzI1Ljc5OSAxOC40MjY0IDI1LjU3NCAxOC4yNzQgMjUuMzMwNyAxOC4xNTM4QzI0LjkxNyAxNy45NDkyIDI0LjQ2MTUgMTcuODQzMiAyNCAxNy44NDM4VjE1LjcxODJDMjQgMTUuNDQzNSAyMy44ODY4IDE1LjE4MSAyMy42ODcgMTQuOTkyMkwxNCA1Ljg0MTk4TDQuMzEyOTkgMTQuOTkyMkM0LjExMzIgMTUuMTgxIDQgMTUuNDQzNSA0IDE1LjcxODJWMjYuODQ2NkM0IDI3LjM5ODMgNC40NDc3MiAyNy44NDU2IDUgMjcuODQ1Nkg4Ljc2MjNDOC4yNzI2NyAyOC4zOTM5IDggMjkuMTA0OCA4IDI5Ljg0MzhMNSAyOS44NDM4QzMuMzQzMTQgMjkuODQzOCAyIDI4LjUwMTkgMiAyNi44NDY2VjE1LjcxODJDMiAxNC44OTQxIDIuMzM5NjEgMTQuMTA2NCAyLjkzODk2IDEzLjU0MDNMMTIuNjI2IDQuMzkwMDJaIi8+JiN4YTs8cGF0aCBmaWxsPSJibGFjayIgZD0iTTI5IDIyLjg0MzdDMjguMzk3OSAyMi44NzczIDI3Ljc5NTIgMjIuNzg3NiAyNy4yMjg5IDIyLjU4QzI2LjY2MjcgMjIuMzcyNSAyNi4xNDQ4IDIyLjA1MTUgMjUuNzA3IDIxLjYzNjdDMjUuNDY1OCAyMS4zOTY0IDI1LjI1OTEgMjEuMTIzOCAyNS4wOTMgMjAuODI2N0MyNS4wNTI2IDIwLjc1MDYgMjUuMDE2MyAyMC42NzI1IDI0Ljk4NCAyMC41OTI3QzI0Ljk0OTMgMjAuNTA1OSAyNC45MDkyIDIwLjQyMTQgMjQuODY0IDIwLjMzOTdDMjQuODQzNyAyMC4zMDUgMjQuODIxNCAyMC4yNzE2IDI0Ljc5NyAyMC4yMzk3QzI0LjY3MTkgMjAuMDc1MyAyNC40OTkgMTkuOTUzNyAyNC4zMDIxIDE5Ljg5MTZDMjQuMTA1MSAxOS44Mjk1IDIzLjg5MzcgMTkuODI5OCAyMy42OTcgMTkuODkyN0gyMy42ODdDMjMuNDU2NiAxOS45NzA5IDIzLjI2MTggMjAuMTI5MiAyMy4xMzggMjAuMzM4N0MyMy4wODYxIDIwLjQzNTMgMjMuMDQxMyAyMC41MzU1IDIzLjAwNCAyMC42Mzg3TDIyLjk5MzUgMjAuNjY0OEMyMi45NjYxIDIwLjczMzIgMjIuOTM4NiAyMC44MDE5IDIyLjkwNCAyMC44NjY3QzIyLjc1NDEgMjEuMTY2IDIyLjU3MDkgMjEuNDQ3NCAyMi4zNTggMjEuNzA1N0MyMi4wNzY1IDIyLjA2MTEgMjEuNzE4MiAyMi4zNDgyIDIxLjMxMDEgMjIuNTQ1NUMyMC45MDE5IDIyLjc0MjkgMjAuNDU0NCAyMi44NDU0IDIwLjAwMSAyMi44NDU0QzE5LjU0NzYgMjIuODQ1NCAxOS4xMDAxIDIyLjc0MjkgMTguNjkxOSAyMi41NDU1QzE4LjI4MzggMjIuMzQ4MiAxNy45MjU1IDIyLjA2MTEgMTcuNjQ0IDIxLjcwNTdDMTcuNDMxMSAyMS40NDc0IDE3LjI0NzkgMjEuMTY2IDE3LjA5OCAyMC44NjY3QzE3LjA3MTEgMjAuODEzNiAxNy4wNDc5IDIwLjc1NzkgMTcuMDI0NiAyMC43MDE5QzE3LjAxNTggMjAuNjgwOCAxNy4wMDcgMjAuNjU5NyAxNi45OTggMjAuNjM4N0MxNi45NjA3IDIwLjUzNTUgMTYuOTE1OSAyMC40MzUzIDE2Ljg2NCAyMC4zMzg3QzE2Ljc0MDIgMjAuMTI5MiAxNi41NDU0IDE5Ljk3MDkgMTYuMzE1IDE5Ljg5MjdIMTYuMzA1QzE2LjEwODMgMTkuODI5OCAxNS44OTY5IDE5LjgyOTUgMTUuNjk5OSAxOS44OTE2QzE1LjUwMyAxOS45NTM3IDE1LjMzMDEgMjAuMDc1MyAxNS4yMDUgMjAuMjM5N0MxNS4xODA2IDIwLjI3MTYgMTUuMTU4MyAyMC4zMDUgMTUuMTM4IDIwLjMzOTdDMTUuMDkyOCAyMC40MjE0IDE1LjA1MjcgMjAuNTA1OSAxNS4wMTggMjAuNTkyN0MxNC45ODU3IDIwLjY3MjUgMTQuOTQ5NCAyMC43NTA2IDE0LjkwOSAyMC44MjY3QzE0Ljc0MjkgMjEuMTIzOCAxNC41MzYyIDIxLjM5NjQgMTQuMjk1IDIxLjYzNjdDMTMuODU3IDIyLjA1MTcgMTMuMzM4NyAyMi4zNzI5IDEyLjc3MjEgMjIuNTgwNEMxMi4yMDU1IDIyLjc4OCAxMS42MDI1IDIyLjg3NzYgMTEgMjIuODQzN0MxMC43MzQ4IDIyLjg0MzcgMTAuNDgwNCAyMi45NDkgMTAuMjkyOSAyMy4xMzY2QzEwLjEwNTQgMjMuMzI0MSAxMCAyMy41Nzg1IDEwIDIzLjg0MzdDMTAgMjQuMTA4OSAxMC4xMDU0IDI0LjM2MzIgMTAuMjkyOSAyNC41NTA4QzEwLjQ4MDQgMjQuNzM4MyAxMC43MzQ4IDI0Ljg0MzcgMTEgMjQuODQzN0MxMS44NjUgMjQuODc3OSAxMi43Mjc5IDI0LjczNjcgMTMuNTM2OSAyNC40Mjg2QzE0LjM0NTggMjQuMTIwNCAxNS4wODQgMjMuNjUxNyAxNS43MDcgMjMuMDUwN0MxNS43OTQgMjIuOTYzNyAxNS44NzYgMjIuODc2NyAxNS45NTIgMjIuNzg5N0MxNi4wMDEgMjIuODU0NyAxNi4wNTIgMjIuOTE4NyAxNi4xMDcgMjIuOTgzN0MxNi41NzU2IDIzLjU2NTEgMTcuMTY4NiAyNC4wMzQyIDE3Ljg0MjIgMjQuMzU2NUMxOC41MTU5IDI0LjY3ODggMTkuMjUzMiAyNC44NDYxIDIwIDI0Ljg0NjFDMjAuNzQ2OCAyNC44NDYxIDIxLjQ4NDEgMjQuNjc4OCAyMi4xNTc4IDI0LjM1NjVDMjIuODMxNCAyNC4wMzQyIDIzLjQyNDQgMjMuNTY1MSAyMy44OTMgMjIuOTgzN0MyMy45NDcgMjIuOTE4NyAyMy45OTkgMjIuODU0NyAyNC4wNDggMjIuNzg5N0MyNC4xMjQgMjIuODc2NyAyNC4yMDYgMjIuOTYzNyAyNC4yOTMgMjMuMDUwN0MyNC45MTYgMjMuNjUxNyAyNS42NTQyIDI0LjEyMDQgMjYuNDYzMSAyNC40Mjg2QzI3LjI3MjEgMjQuNzM2NyAyOC4xMzUgMjQuODc3OSAyOSAyNC44NDM3QzI5LjI2NTIgMjQuODQzNyAyOS41MTk2IDI0LjczODMgMjkuNzA3MSAyNC41NTA4QzI5Ljg5NDYgMjQuMzYzMiAzMCAyNC4xMDg5IDMwIDIzLjg0MzdDMzAgMjMuNTc4NSAyOS44OTQ2IDIzLjMyNDEgMjkuNzA3MSAyMy4xMzY2QzI5LjUxOTYgMjIuOTQ5IDI5LjI2NTIgMjIuODQzNyAyOSAyMi44NDM3WiIvPiYjeGE7PHBhdGggZmlsbD0iYmxhY2siIGQ9Ik0yOSAyOC44NDM3QzI4LjM5NzkgMjguODc3MyAyNy43OTUyIDI4Ljc4NzYgMjcuMjI4OSAyOC41OEMyNi42NjI3IDI4LjM3MjUgMjYuMTQ0OCAyOC4wNTE1IDI1LjcwNyAyNy42MzY3QzI1LjQ2NTggMjcuMzk2NCAyNS4yNTkxIDI3LjEyMzggMjUuMDkzIDI2LjgyNjdDMjUuMDUyNiAyNi43NTA2IDI1LjAxNjMgMjYuNjcyNSAyNC45ODQgMjYuNTkyN0MyNC45NDkzIDI2LjUwNTkgMjQuOTA5MiAyNi40MjE0IDI0Ljg2NCAyNi4zMzk3QzI0Ljg0MzcgMjYuMzA1IDI0LjgyMTQgMjYuMjcxNiAyNC43OTcgMjYuMjM5N0MyNC42NzE5IDI2LjA3NTMgMjQuNDk5IDI1Ljk1MzcgMjQuMzAyMSAyNS44OTE2QzI0LjEwNTEgMjUuODI5NSAyMy44OTM3IDI1LjgyOTggMjMuNjk3IDI1Ljg5MjdIMjMuNjg3QzIzLjQ1NjYgMjUuOTcwOSAyMy4yNjE4IDI2LjEyOTIgMjMuMTM4IDI2LjMzODdDMjMuMDg2MSAyNi40MzUzIDIzLjA0MTMgMjYuNTM1NSAyMy4wMDQgMjYuNjM4N0wyMi45OTM1IDI2LjY2NDhDMjIuOTY2MSAyNi43MzMyIDIyLjkzODYgMjYuODAxOSAyMi45MDQgMjYuODY2N0MyMi43NTQxIDI3LjE2NiAyMi41NzA5IDI3LjQ0NzQgMjIuMzU4IDI3LjcwNTdDMjIuMDc2NSAyOC4wNjExIDIxLjcxODIgMjguMzQ4MiAyMS4zMTAxIDI4LjU0NTVDMjAuOTAxOSAyOC43NDI5IDIwLjQ1NDQgMjguODQ1NCAyMC4wMDEgMjguODQ1NEMxOS41NDc2IDI4Ljg0NTQgMTkuMTAwMSAyOC43NDI5IDE4LjY5MTkgMjguNTQ1NUMxOC4yODM4IDI4LjM0ODIgMTcuOTI1NSAyOC4wNjExIDE3LjY0NCAyNy43MDU3QzE3LjQzMTEgMjcuNDQ3NCAxNy4yNDc5IDI3LjE2NiAxNy4wOTggMjYuODY2N0MxNy4wNzExIDI2LjgxMzYgMTcuMDQ3OSAyNi43NTc5IDE3LjAyNDYgMjYuNzAxOUMxNy4wMTU4IDI2LjY4MDggMTcuMDA3IDI2LjY1OTcgMTYuOTk4IDI2LjYzODdDMTYuOTYwNyAyNi41MzU1IDE2LjkxNTkgMjYuNDM1MyAxNi44NjQgMjYuMzM4N0MxNi43NDAyIDI2LjEyOTIgMTYuNTQ1NCAyNS45NzA5IDE2LjMxNSAyNS44OTI3SDE2LjMwNUMxNi4xMDgzIDI1LjgyOTggMTUuODk2OSAyNS44Mjk1IDE1LjY5OTkgMjUuODkxNkMxNS41MDMgMjUuOTUzNyAxNS4zMzAxIDI2LjA3NTMgMTUuMjA1IDI2LjIzOTdDMTUuMTgwNiAyNi4yNzE2IDE1LjE1ODMgMjYuMzA1IDE1LjEzOCAyNi4zMzk3QzE1LjA5MjggMjYuNDIxNCAxNS4wNTI3IDI2LjUwNTkgMTUuMDE4IDI2LjU5MjdDMTQuOTg1NyAyNi42NzI1IDE0Ljk0OTQgMjYuNzUwNiAxNC45MDkgMjYuODI2N0MxNC43NDI5IDI3LjEyMzggMTQuNTM2MiAyNy4zOTY0IDE0LjI5NSAyNy42MzY3QzEzLjg1NyAyOC4wNTE3IDEzLjMzODcgMjguMzcyOSAxMi43NzIxIDI4LjU4MDRDMTIuMjA1NSAyOC43ODggMTEuNjAyNSAyOC44Nzc2IDExIDI4Ljg0MzdDMTAuNzM0OCAyOC44NDM3IDEwLjQ4MDQgMjguOTQ5IDEwLjI5MjkgMjkuMTM2NkMxMC4xMDU0IDI5LjMyNDEgMTAgMjkuNTc4NSAxMCAyOS44NDM3QzEwIDMwLjEwODkgMTAuMTA1NCAzMC4zNjMyIDEwLjI5MjkgMzAuNTUwOEMxMC40ODA0IDMwLjczODMgMTAuNzM0OCAzMC44NDM3IDExIDMwLjg0MzdDMTEuODY1IDMwLjg3NzkgMTIuNzI3OSAzMC43MzY3IDEzLjUzNjkgMzAuNDI4NkMxNC4zNDU4IDMwLjEyMDQgMTUuMDg0IDI5LjY1MTcgMTUuNzA3IDI5LjA1MDdDMTUuNzk0IDI4Ljk2MzcgMTUuODc2IDI4Ljg3NjcgMTUuOTUyIDI4Ljc4OTdDMTYuMDAxIDI4Ljg1NDcgMTYuMDUyIDI4LjkxODcgMTYuMTA3IDI4Ljk4MzdDMTYuNTc1NiAyOS41NjUxIDE3LjE2ODYgMzAuMDM0MiAxNy44NDIyIDMwLjM1NjVDMTguNTE1OSAzMC42Nzg4IDE5LjI1MzIgMzAuODQ2MSAyMCAzMC44NDYxQzIwLjc0NjggMzAuODQ2MSAyMS40ODQxIDMwLjY3ODggMjIuMTU3OCAzMC4zNTY1QzIyLjgzMTQgMzAuMDM0MiAyMy40MjQ0IDI5LjU2NTEgMjMuODkzIDI4Ljk4MzdDMjMuOTQ3IDI4LjkxODcgMjMuOTk5IDI4Ljg1NDcgMjQuMDQ4IDI4Ljc4OTdDMjQuMTI0IDI4Ljg3NjcgMjQuMjA2IDI4Ljk2MzcgMjQuMjkzIDI5LjA1MDdDMjQuOTE2IDI5LjY1MTcgMjUuNjU0MiAzMC4xMjA0IDI2LjQ2MzEgMzAuNDI4NkMyNy4yNzIxIDMwLjczNjcgMjguMTM1IDMwLjg3NzkgMjkgMzAuODQzN0MyOS4yNjUyIDMwLjg0MzcgMjkuNTE5NiAzMC43MzgzIDI5LjcwNzEgMzAuNTUwOEMyOS44OTQ2IDMwLjM2MzIgMzAgMzAuMTA4OSAzMCAyOS44NDM3QzMwIDI5LjU3ODUgMjkuODk0NiAyOS4zMjQxIDI5LjcwNzEgMjkuMTM2NkMyOS41MTk2IDI4Ljk0OSAyOS4yNjUyIDI4Ljg0MzcgMjkgMjguODQzN1oiLz4mI3hhOzwvc3ZnPg==" value="Lakehouse" vertex="1">
           <mxGeometry height="49.5" width="48" x="702.34" y="194.30999999999995" as="geometry" />
         </mxCell>
-        <mxCell id="s0ssg1tq6zyizdszTVb1-9" edge="1" parent="1" source="s0ssg1tq6zyizdszTVb1-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.984;entryY=0.927;entryDx=0;entryDy=0;entryPerimeter=0;" target="s0ssg1tq6zyizdszTVb1-20">
+        <mxCell id="s0ssg1tq6zyizdszTVb1-9" edge="1" parent="1" source="s0ssg1tq6zyizdszTVb1-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.984;entryY=0.927;entryDx=0;entryDy=0;entryPerimeter=0;" target="s0ssg1tq6zyizdszTVb1-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s0ssg1tq6zyizdszTVb1-10" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;" value="Workspace Identity" vertex="1">
@@ -183,10 +183,10 @@
           <mxGeometry height="30" width="150" x="565.34" y="396" as="geometry" />
         </mxCell>
         <mxCell id="s0ssg1tq6zyizdszTVb1-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;dashPattern=8 8;align=left;verticalAlign=top;" value="&lt;b&gt;ADLS Storage&lt;/b&gt;" vertex="1">
-          <mxGeometry height="260" width="240" x="86.34000000000003" y="290" as="geometry" />
+          <mxGeometry height="210" width="240" x="86.34" y="290" as="geometry" />
         </mxCell>
         <mxCell id="s0ssg1tq6zyizdszTVb1-16" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" value="VNet" vertex="1">
-          <mxGeometry height="28.66" width="48" x="270.34000000000003" y="554" as="geometry" />
+          <mxGeometry height="28.66" width="48" x="268.34000000000003" y="519" as="geometry" />
         </mxCell>
         <mxCell id="s0ssg1tq6zyizdszTVb1-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Unity Catalog Managed Tables" vertex="1">
           <mxGeometry height="30" width="188" x="82.34000000000003" y="260" as="geometry" />
@@ -194,36 +194,31 @@
         <mxCell id="s0ssg1tq6zyizdszTVb1-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1" value="Databricks Workspace" vertex="1">
           <mxGeometry height="30" width="150" x="135.34000000000003" y="100" as="geometry" />
         </mxCell>
-        <mxCell id="s0ssg1tq6zyizdszTVb1-19" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" target="s0ssg1tq6zyizdszTVb1-23">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="266.34000000000003" y="481.9641319111961" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="s0ssg1tq6zyizdszTVb1-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Fabric VNet&amp;nbsp;&lt;div&gt;Gateway&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="90" x="400.00000000000006" y="260" as="geometry" />
         </mxCell>
         <mxCell id="s0ssg1tq6zyizdszTVb1-21" parent="1" style="shape=image;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=0;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiIHZpZXdCb3g9IjAgMCAzMiAzMyIgaGVpZ2h0PSIzMyIgd2lkdGg9IjMyIj4mI3hhOzxwYXRoIGZpbGw9ImJsYWNrIiBkPSJNMTIgMTMuMzc1QzEyIDE0LjIwMzQgMTEuMzI4NCAxNC44NzUgMTAuNSAxNC44NzVDOS42NzE1NyAxNC44NzUgOSAxNC4yMDM0IDkgMTMuMzc1QzkgMTIuNTQ2NiA5LjY3MTU3IDExLjg3NSAxMC41IDExLjg3NUMxMS4zMjg0IDExLjg3NSAxMiAxMi41NDY2IDEyIDEzLjM3NVpNMTAuNSAyMC44NzVDMTEuMzI4NCAyMC44NzUgMTIgMjAuMjAzNCAxMiAxOS4zNzVDMTIgMTguNTQ2NiAxMS4zMjg0IDE3Ljg3NSAxMC41IDE3Ljg3NUM5LjY3MTU3IDE3Ljg3NSA5IDE4LjU0NjYgOSAxOS4zNzVDOSAyMC4yMDM0IDkuNjcxNTcgMjAuODc1IDEwLjUgMjAuODc1Wk0xNiAyMC44NzVDMTYuODI4NCAyMC44NzUgMTcuNSAyMC4yMDM0IDE3LjUgMTkuMzc1QzE3LjUgMTguNTQ2NiAxNi44Mjg0IDE3Ljg3NSAxNiAxNy44NzVDMTUuMTcxNiAxNy44NzUgMTQuNSAxOC41NDY2IDE0LjUgMTkuMzc1QzE0LjUgMjAuMjAzNCAxNS4xNzE2IDIwLjg3NSAxNiAyMC44NzVaTTE2IDE0Ljg3NUMxNi44Mjg0IDE0Ljg3NSAxNy41IDE0LjIwMzQgMTcuNSAxMy4zNzVDMTcuNSAxMi41NDY2IDE2LjgyODQgMTEuODc1IDE2IDExLjg3NUMxNS4xNzE2IDExLjg3NSAxNC41IDEyLjU0NjYgMTQuNSAxMy4zNzVDMTQuNSAxNC4yMDM0IDE1LjE3MTYgMTQuODc1IDE2IDE0Ljg3NVpNMjEuNSAxNC44NzVDMjIuMzI4NCAxNC44NzUgMjMgMTQuMjAzNCAyMyAxMy4zNzVDMjMgMTIuNTQ2NiAyMi4zMjg0IDExLjg3NSAyMS41IDExLjg3NUMyMC42NzE2IDExLjg3NSAyMCAxMi41NDY2IDIwIDEzLjM3NUMyMCAxNC4yMDM0IDIwLjY3MTYgMTQuODc1IDIxLjUgMTQuODc1Wk03LjUgMy44NzVDNS4wMTQ3MiAzLjg3NSAzIDUuODg5NzIgMyA4LjM3NVYyNS4zNzVDMyAyNy44NjAzIDUuMDE0NzIgMjkuODc1IDcuNSAyOS44NzVIMjQuNUMyNi45ODUzIDI5Ljg3NSAyOSAyNy44NjAzIDI5IDI1LjM3NVY4LjM3NUMyOSA1Ljg4OTcyIDI2Ljk4NTMgMy44NzUgMjQuNSAzLjg3NUg3LjVaTTUgOC4zNzVDNSA2Ljk5NDI5IDYuMTE5MjkgNS44NzUgNy41IDUuODc1SDI0LjVDMjUuODgwNyA1Ljg3NSAyNyA2Ljk5NDI5IDI3IDguMzc1VjI1LjM3NUMyNyAyNi43NTU3IDI1Ljg4MDcgMjcuODc1IDI0LjUgMjcuODc1SDcuNUM2LjExOTI5IDI3Ljg3NSA1IDI2Ljc1NTcgNSAyNS4zNzVWOC4zNzVaIi8+JiN4YTs8L3N2Zz4=" value="Delta Tables" vertex="1">
-          <mxGeometry height="49.5" width="48" x="114.34000000000003" y="350" as="geometry" />
+          <mxGeometry height="49.5" width="48" x="114.34000000000003" y="320" as="geometry" />
         </mxCell>
         <mxCell id="s0ssg1tq6zyizdszTVb1-22" edge="1" parent="1" source="s0ssg1tq6zyizdszTVb1-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="s0ssg1tq6zyizdszTVb1-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s0ssg1tq6zyizdszTVb1-23" parent="1" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/firewall.svg;" value="ADLS Storage&lt;div&gt;Firewall&lt;/div&gt;" vertex="1">
-          <mxGeometry height="50" width="30.5" x="123.09000000000003" y="446" as="geometry" />
+          <mxGeometry height="50" width="30.5" x="277.34000000000003" y="396" as="geometry" />
         </mxCell>
         <mxCell id="s0ssg1tq6zyizdszTVb1-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="1" vertex="1">
-          <mxGeometry height="30" width="30" x="494" y="208.11999999999995" as="geometry" />
+          <mxGeometry height="30" width="30" x="490" y="219.99999999999994" as="geometry" />
         </mxCell>
         <mxCell id="s0ssg1tq6zyizdszTVb1-25" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="4" vertex="1">
-          <mxGeometry height="30" width="30" x="184.34000000000003" y="510" as="geometry" />
+          <mxGeometry height="30" width="30" x="232.34000000000003" y="426" as="geometry" />
         </mxCell>
         <mxCell id="s0ssg1tq6zyizdszTVb1-26" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="5" vertex="1">
-          <mxGeometry height="30" width="30" x="162.34000000000003" y="329.75" as="geometry" />
+          <mxGeometry height="30" width="30" x="162.34000000000003" y="317.75" as="geometry" />
         </mxCell>
         <mxCell id="s0ssg1tq6zyizdszTVb1-27" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="2" vertex="1">
-          <mxGeometry height="30" width="30" x="496.34" y="324.49" as="geometry" />
+          <mxGeometry height="30" width="30" x="496.34" y="308.49" as="geometry" />
         </mxCell>
-        <mxCell id="s0ssg1tq6zyizdszTVb1-28" edge="1" parent="1" source="s0ssg1tq6zyizdszTVb1-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" target="s0ssg1tq6zyizdszTVb1-3" value="">
+        <mxCell id="s0ssg1tq6zyizdszTVb1-28" edge="1" parent="1" source="s0ssg1tq6zyizdszTVb1-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.898;entryY=0.694;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryPerimeter=0;" target="s0ssg1tq6zyizdszTVb1-39" value="">
           <mxGeometry relative="1" x="-0.0009" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -231,16 +226,11 @@
         <mxCell id="s0ssg1tq6zyizdszTVb1-29" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/identity/Users.svg;" value="Service Principal" vertex="1">
           <mxGeometry height="38.12" width="34.86" x="588.34" y="200" as="geometry" />
         </mxCell>
-        <mxCell id="s0ssg1tq6zyizdszTVb1-30" edge="1" parent="1" source="s0ssg1tq6zyizdszTVb1-20" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.875;entryY=0.386;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=1;exitDx=0;exitDy=0;">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="308.34000000000003" y="476.9839999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="s0ssg1tq6zyizdszTVb1-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Fabric reads table with SP token" vertex="1">
-          <mxGeometry height="30" width="120" x="148.34000000000003" y="359.75" as="geometry" />
+          <mxGeometry height="30" width="120" x="150.34000000000003" y="348.12" as="geometry" />
         </mxCell>
         <mxCell id="s0ssg1tq6zyizdszTVb1-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Fabric Workspace Identity account forADLS storage firewall" vertex="1">
-          <mxGeometry height="37.34" width="154" x="82.34000000000003" y="556.6599999999999" as="geometry" />
+          <mxGeometry height="37.34" width="154" x="83.34000000000003" y="514.6599999999999" as="geometry" />
         </mxCell>
         <mxCell id="s0ssg1tq6zyizdszTVb1-33" edge="1" parent="1" source="s0ssg1tq6zyizdszTVb1-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="s0ssg1tq6zyizdszTVb1-36">
           <mxGeometry relative="1" as="geometry" />
@@ -261,12 +251,12 @@
           <mxGeometry height="45.38" width="44" x="705.34" y="429" as="geometry" />
         </mxCell>
         <mxCell id="s0ssg1tq6zyizdszTVb1-39" parent="1" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Private_Endpoint.svg;" value="Private Endpoint" vertex="1">
-          <mxGeometry height="44" width="48" x="268.34000000000003" y="452" as="geometry" />
+          <mxGeometry height="33.88" width="37" x="301.34000000000003" y="202.12" as="geometry" />
         </mxCell>
         <mxCell id="s0ssg1tq6zyizdszTVb1-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="NETWORK PATH" vertex="1">
           <mxGeometry height="30" width="190" x="30" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="s0ssg1tq6zyizdszTVb1-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="1. Service Principal granted JIT token to access UC storage&lt;div&gt;2. Service Principal connects to UC storage through Fabric VNet Gateway connection &lt;i&gt;for metadata&lt;/i&gt;&lt;/div&gt;&lt;div&gt;3. Service Principal connects to UC storage private endpoing directly &lt;i&gt;for data&lt;/i&gt;&lt;/div&gt;&lt;div&gt;4. ADLS Firewall grants access to Fabric Trusted Workspace identity to allow traversal&lt;/div&gt;&lt;div&gt;5. UC table read with Service Principal JIT token&lt;/div&gt;" vertex="1">
+        <mxCell id="s0ssg1tq6zyizdszTVb1-43" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="1. Service Principal granted JIT token to access UC storage&lt;div&gt;2. Service Principal connects to UC storage through Fabric VNet Gateway connection &lt;i&gt;for metadata authorization&lt;/i&gt;&lt;/div&gt;&lt;div&gt;3. Fabric reads ADLS Delta data using UC-authorized access; storage firewall traversal is allowed by Workspace Identity / Trusted Workspace Acess&lt;/div&gt;&lt;div&gt;4. ADLS Firewall grants access to Fabric Trusted Workspace identity to allow traversal&lt;/div&gt;&lt;div&gt;5. Fabric reads Delta files using UC-authorized short-lived access; ADLS firewall permits the request via Fabric Workspace Identity&lt;/div&gt;" vertex="1">
           <mxGeometry height="90" width="598.66" x="51.34" y="630" as="geometry" />
         </mxCell>
         <mxCell id="s0ssg1tq6zyizdszTVb1-44" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=11;" value="HTTPS/TLS 1.2 on port 443" vertex="1">
@@ -281,7 +271,7 @@
         <mxCell id="s0ssg1tq6zyizdszTVb1-47" edge="1" parent="1" source="s0ssg1tq6zyizdszTVb1-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.997;entryY=0.065;entryDx=0;entryDy=0;entryPerimeter=0;" target="s0ssg1tq6zyizdszTVb1-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tYumEYXITxFEB0QlPAzk-1" edge="1" parent="1" source="s0ssg1tq6zyizdszTVb1-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.055;entryY=0.545;entryDx=0;entryDy=0;entryPerimeter=0;" target="s0ssg1tq6zyizdszTVb1-39">
+        <mxCell id="tYumEYXITxFEB0QlPAzk-1" edge="1" parent="1" source="s0ssg1tq6zyizdszTVb1-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="s0ssg1tq6zyizdszTVb1-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tYumEYXITxFEB0QlPAzk-2" connectable="0" parent="tYumEYXITxFEB0QlPAzk-1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&lt;span style=&quot;white-space: normal; background-color: rgb(236, 236, 236);&quot;&gt;&lt;font&gt;Fabric connects to&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;white-space: normal; background-color: rgb(236, 236, 236);&quot;&gt;&lt;font&gt;Databricks managed storage VNet&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" vertex="1">
@@ -290,7 +280,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="tYumEYXITxFEB0QlPAzk-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="3" vertex="1">
-          <mxGeometry height="30" width="30" x="477" y="405" as="geometry" />
+          <mxGeometry height="30" width="30" x="447" y="389" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
